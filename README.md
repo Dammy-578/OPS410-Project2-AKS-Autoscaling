@@ -114,6 +114,4 @@ This project reinforced essential cloud and DevOps skills used in real-world env
 
 ## Author
 
-Oluwadamilola “Dammy” Ogundipe
-Honours Bachelor of Information Technology – Design & Management
-Seneca Polytechnic (OPS410)
+Dammy.
